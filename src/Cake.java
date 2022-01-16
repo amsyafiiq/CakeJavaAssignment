@@ -47,7 +47,7 @@ public class Cake {
       return cakeType;
    }
 
-   public int geQty() {
+   public int getQty() {
       return qty;
    }
 
